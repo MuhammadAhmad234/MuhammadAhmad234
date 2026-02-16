@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi there, I'm Muhammad Ahmad 👋
 
-<!--
-**MuhammadAhmad234/MuhammadAhmad234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Backend & AI Software Engineer
+**Based in Faisalabad, Pakistan**
 
-Here are some ideas to get you started:
+I am a Computer Science graduate (2025) and a passionate engineer bridging the gap between scalable backend architectures and intelligent AI agents. Currently, I work at **Speecto**, engineering robust solutions, and I am the founder of **Lamakode**, an agency specializing in Web, Mobile, and AI solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ The Tech Stack
+*I focus on high-performance backends, type safety, and next-gen AI integration.*
+
+| **Category** | **Technologies** |
+|:---:|:---|
+| **Backend Core** | ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Bun.js](https://img.shields.io/badge/Bun.js-000000?style=flat&logo=bun&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
+| **AI & LLMs** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white) **AI Agents** (ReAct Loop) |
+| **Database** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) |
+| **Frontend & Mobile** | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) |
+| **Testing** | ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white) ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white) |
+
+---
+
+### 🔭 What I'm Working On
+
+- **🏢 Speecto:** Leading backend development and integrating AI features.
+- **🤖 AI Agents:** Building autonomous agents from scratch using Python and the ReAct loop logic.
+- **🔒 Encrypted Chat:** Developing a NestJS + MongoDB chat application with end-to-end encryption.
+- **📱 Mobile Dev:** Deep diving into React Native for cross-platform apps.
+- **🌐 Lamakode:** Building a professional landing page for my software solutions agency.
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadAhmad234&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAhmad234&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
+### ⚡ Fun Facts & Interests
+
+- **⚽ Visca el Barça:** Die-hard FC Barcelona and Lionel Messi fan.
+- **🏎️ F1 Enthusiast:** Always on the lookout for the latest stats (and building apps for them!).
+- **🥜 Focus Hack:** I swear by peanuts in the afternoon to maintain work ethic and focus.
+- **💪 Discipline:** Currently on a strict fitness and weight-loss journey, maintaining a calorie deficit and a consistent walking schedule.
+- **🎓 Future Goal:** Aiming for a Master's in Canada (Sept 2027 intake).
+
+---
+
+### 📫 Connect with Me
+
+* **Email:** [m.ahmad.awtal@outlook.com](mailto:m.ahmad.awtal@outlook.com)
+* **LinkedIn:** [linkedin.com/in/muhammad-ahmad89](https://www.linkedin.com/in/muhammad-ahmad89/)
