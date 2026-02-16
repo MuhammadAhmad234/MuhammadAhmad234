@@ -3,7 +3,7 @@
 ### 🚀 Backend & AI Software Engineer
 **Based in Faisalabad, Pakistan**
 
-I am a Computer Science graduate (2025) and a passionate engineer bridging the gap between scalable backend architectures and intelligent AI agents. Currently, I work at **Speecto**, engineering robust solutions, and I am the founder of **Lamakode**, an agency specializing in Web, Mobile, and AI solutions.
+I am a Computer Science graduate (2025) and a passionate engineer bridging the gap between scalable backend architectures and intelligent AI agents. Currently, I work at **Speecto**, engineering robus[...]  
 
 ---
 
@@ -12,11 +12,11 @@ I am a Computer Science graduate (2025) and a passionate engineer bridging the g
 
 | **Category** | **Technologies** |
 |:---:|:---|
-| **Backend Core** | ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Bun.js](https://img.shields.io/badge/Bun.js-000000?style=flat&logo=bun&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
+| **Backend Core** | ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoC[...]  
 | **AI & LLMs** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white) **AI Agents** (ReAct Loop) |
-| **Database** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) |
-| **Frontend & Mobile** | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) |
-| **Testing** | ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white) ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white) |
+| **Database** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=whi[...]  
+| **Frontend & Mobile** | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&lo[...]  
+| **Testing** | ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white) ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white) ![...]  
 
 ---
 
@@ -33,8 +33,8 @@ I am a Computer Science graduate (2025) and a passionate engineer bridging the g
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadahmad234&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadahmad234&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadAhmad234&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAhmad234&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
 </div>
 
 ---
